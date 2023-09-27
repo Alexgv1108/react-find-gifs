@@ -1,3 +1,8 @@
+# GifExpertApp
+
+`Este es mi repositorio del curso de React en Udemy`
+
+
 rafc snippet para crear componente
 
 
